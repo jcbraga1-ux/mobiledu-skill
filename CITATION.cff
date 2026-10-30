@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Se usar esta skill, cite o repositório e a tese que originou as diretrizes."
+title: "MobileDU Skill – Diretrizes de Desenho Universal para aplicações móveis"
+type: software
+authors:
+  - family-names: "Coletto"
+    given-names: "Carlos Jair"
+  - family-names: "Braga"
+    given-names: "Juliana Cristina"
+    affiliation: "Universidade Federal do ABC (UFABC) – Grupo INTERA"
+license: CC-BY-4.0
+repository-code: "https://github.com/jcbraga1-ux/mobiledu-skill"
+keywords:
+  - desenho universal
+  - acessibilidade
+  - aplicações móveis
+  - agent skills
+  - MobileDU
+preferred-citation:
+  type: thesis
+  thesis-type: "Tese (Doutorado em Ciência da Computação)"
+  title: "Diretrizes para o Desenvolvimento de Aplicações Móveis Voltadas para o Desenho Universal: A Biblioteca MobileDU"
+  authors:
+    - family-names: "Coletto"
+      given-names: "Carlos Jair"
+  institution:
+    name: "Universidade Federal do ABC"
+    city: "Santo André"
+  year: 2026
