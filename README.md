@@ -1,4 +1,5 @@
 # MobileDU Skill – Diretrizes de Desenho Universal para aplicações móveis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23809315.svg)](https://doi.org/10.5281/zenodo.23809315)
 
 Agent Skill com as **60 diretrizes da Biblioteca MobileDU**, organizadas em 8 categorias (Ambiente, Texto, Som, Vídeo, Zoom, Entrada de dados, Notificações e alertas, Gestos), para usar com assistentes de IA compatíveis com o padrão aberto [Agent Skills](https://agentskills.io/).
 
