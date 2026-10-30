@@ -9,6 +9,8 @@ authors:
     given-names: "Juliana Cristina"
     affiliation: "Universidade Federal do ABC (UFABC) – Grupo INTERA"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23809315
+version: 1.0.1
 repository-code: "https://github.com/jcbraga1-ux/mobiledu-skill"
 keywords:
   - desenho universal
