@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "Se usar esta skill, cite o repositório e a tese que originou as diretrizes."
 title: "MobileDU Skill – Diretrizes de Desenho Universal para aplicações móveis"
-doi: 10.5281/zenodo.23836532
 version: 1.0.0
 type: software
 authors:
