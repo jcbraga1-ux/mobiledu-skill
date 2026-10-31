@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "Se usar esta skill, cite o repositório e a tese que originou as diretrizes."
 title: "MobileDU Skill – Diretrizes de Desenho Universal para aplicações móveis"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23836532.svg)](https://doi.org/10.5281/zenodo.23836532)
 type: software
 authors:
   - family-names: "Coletto"
