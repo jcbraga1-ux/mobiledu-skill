@@ -1,6 +1,6 @@
 ---
-name: "mobiledu-diretrizes"
-description: "Use para consultar, aplicar ou auditar as 60 diretrizes de Desenho Universal da Biblioteca MobileDU (Coletto, 2026) em aplicativos móveis, requisitos, protótipos ou aulas."
+name: mobiledu-diretrizes
+description: Use para consultar, aplicar ou auditar as 60 diretrizes de Desenho Universal da Biblioteca MobileDU (Coletto, 2026) em aplicativos móveis, requisitos, protótipos ou aulas.
 ---
 
 # Biblioteca MobileDU – Diretrizes de Desenho Universal para aplicações móveis
