@@ -18,7 +18,14 @@ Cada diretriz traz suas referências de origem: diretrizes de Nery (Módulo Conf
 
 A skill é a pasta [`mobiledu-diretrizes/`](mobiledu-diretrizes/), com o arquivo `SKILL.md`.
 
-- **Claude (claude.ai / app):** compacte a pasta `mobiledu-diretrizes` em um arquivo `.zip` e envie em *Configurações › Capacidades › Skills* (o caminho exato pode variar conforme a versão do app).
+- **Assistentes com tela de configurações:** baixe o arquivo pronto na página de [Releases](../../releases), em *Assets*:
+
+  | Assistente | Arquivo | Onde enviar |
+  | --- | --- | --- |
+  | Claude (claude.ai e app) | `mobiledu-diretrizes.zip` | *Configurações › Capacidades › Skills* |
+  | Gemini (app e web) | `mobiledu-diretrizes-gemini.zip` | página de *Skills* do Gemini, opção de enviar arquivo |
+
+  O arquivo `mobiledu-diretrizes-gemini.zip` traz o `SKILL.md` na pasta principal, como o Gemini exige, e também foi testado no Claude.
 - **Claude Code:** copie a pasta para `~/.claude/skills/` (uso pessoal) ou para `.claude/skills/` dentro do seu projeto.
 - **Outras ferramentas compatíveis com Agent Skills** (como Codex, Cursor, GitHub Copilot): copie a pasta para o diretório de skills indicado na documentação da ferramenta.
 
