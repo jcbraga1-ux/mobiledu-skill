@@ -40,7 +40,7 @@ Use o botão *Cite this repository* do GitHub (arquivo [`CITATION.cff`](CITATION
 
 ## Licença
 
-Conteúdo licenciado sob [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br): você pode usar, adaptar e redistribuir, inclusive comercialmente, desde que cite a fonte.
+Conteúdo licenciado sob [Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br): você pode usar, adaptar e redistribuir para fins não comerciais, desde que cite a fonte. Não é permitido vender o material nem usá-lo para fins comerciais. As versões até a v1.0.1 foram publicadas sob CC BY 4.0.
 
 ## Contribuições
 
